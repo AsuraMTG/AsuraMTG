@@ -16,14 +16,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22013256/asura" target="blank">
+  <a href="https://stackoverflow.com/users/22013256/asuramtg" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22013256/asura" height="30" width="40" /></a>
+  
+  <a href="https://soundcloud.com/asuratdg" target="blank">
+  <img align="center" src="https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico" alt="SoundCloud" height="40" width="40" /></a>
 
-  <a href="https://instagram.com/@__kalap__" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__kalap__" height="30" width="40" /></a>
-
-  <a href="https://www.youtube.com/c/https://www.youtube.com/@asuramtg" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@asuramtg" height="30" width="40" /></a>
+ <a href="https://www.moxfield.com/users/AsuraMTG" target="blank">
+  <img align="center" src="https://www.moxfield.com/favicon.png" alt="Moxfield" height="40" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
