@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AsuraMTG</h1>
+<h1 align="center">Hi 👋, I'm Asura</h1>
 - 🔭 I’m currently working on a [Simple ATM simulator](https://github.com/AsuraMTG/SimpleATM)
 
 - 🌱 I’m currently learning **Flutter and Xamarin**
