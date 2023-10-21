@@ -5,13 +5,14 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Iegqa1rqiOiAmG3zH1/giphy.gif">
 
-- 🔭 I’m currently working on a [Simple ATM simulator](https://github.com/AsuraMTG/SimpleATM)
+- 🌌 I’m currently working on a [Simple ATM simulator](https://github.com/AsuraMTG/SimpleATM) and on a [Simple Music Player](https://github.com/AsuraMTG/simpleMusicPlayer)
 
-- 🌱 I’m currently learning **Flutter and Xamarin**
+- 🌌 I’m currently learning **C# and .NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AsuraMTG](https://github.com/AsuraMTG)
+- 🌌 All of my projects are available at [https://github.com/AsuraMTG](https://github.com/AsuraMTG)
 
-- 📫 How to reach me **eper.karma@gmail.com**
+- 🌌 How to reach me **eper.karma@gmail.com**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
