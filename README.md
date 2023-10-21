@@ -1,51 +1,35 @@
-<img align="left" alt="Coding" width="50" src="https://media.giphy.com/media/U6wAsueMLcnLCEP42C/giphy.gif">
-<div align="Center"><h1>Hi, I'm Asura</h1></div>
+<img src="https://images.ctfassets.net/k428n7s2pxlu/7Huq47vQhUQM84EgegiMCo/e5b94975b07b43b89bd33f18351c29da/blog-post-blog-three-perks-software-developer.jpg">
 
+## 👋 **About Me**
 
+Hey there! I'm Asura. A Junior Software Engeneer.
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Iegqa1rqiOiAmG3zH1/giphy.gif">
+### 🌌 **I’m currently Working on**
 
-- 🌌 I’m currently working on a [Simple ATM simulator](https://github.com/AsuraMTG/SimpleATM) and on a [Simple Music Player](https://github.com/AsuraMTG/simpleMusicPlayer)
+- 📌 [Simple ATM Simulator](https://github.com/AsuraMTG/SimpleATM) 
 
-- 🌌 I’m currently learning **C# and .NET**
+- 📌 [Simple Music Player](https://github.com/AsuraMTG/simpleMusicPlayer)
 
-- 🌌 All of my projects are available at [https://github.com/AsuraMTG](https://github.com/AsuraMTG)
+### 🌌 **I’m currently learning**
 
-- 🌌 How to reach me **eper.karma@gmail.com**
+- 🎓 **C#**
+  
+- 🎓 **Flutter**
+  
+- 🎓 **Xamarin**
  
+### 🌌 **All of my projects are available**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- [https://github.com/AsuraMTG](https://github.com/AsuraMTG)
 
-  <a href="https://stackoverflow.com/users/22013256/asuramtg" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22013256/asura" height="30" width="40" /></a>
-  
-  <a href="https://soundcloud.com/asuratdg" target="blank">
-  <img align="center" src="https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14bdb.ico" alt="SoundCloud" height="40" width="40" /></a>
+### 🌌 **You can reach me**
 
- <a href="https://www.moxfield.com/users/AsuraMTG" target="blank">
-  <img align="center" src="https://www.moxfield.com/favicon.png" alt="Moxfield" height="40" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    
- 
-    
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  
-</p>
+- **eper.karma@gmail.com**
+
+### 🌌 **GitHub Stats**
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asuramtg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asuramtg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asuramtg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asuramtg&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asuramtg&theme=github_dark&utcOffset=8)
