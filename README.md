@@ -14,9 +14,13 @@ Hey there! I'm Asura. A Junior Software Engeneer.
 - 🎓 **Flutter**
   
 - 🎓 **Xamarin**
- 
+
 ### 🌌 **All of my projects are available**
 - [https://github.com/AsuraMTG](https://github.com/AsuraMTG)
+
+
+### 🌌 **Completed projects**
+- ✨ [School Bell on Raspberry Pi 4](https://github.com/AsuraMTG/schoolBell) 
 
 ### 🌌 **You can reach me**
 - **eper.karma@gmail.com**
