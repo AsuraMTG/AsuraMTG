@@ -8,6 +8,8 @@ Hey there! I'm Asura. A Junior Software Engeneer.
 
 - 📌 [Simple Music Player](https://github.com/AsuraMTG/simpleMusicPlayer)
 
+- 📌 [Terraria Malachite Mod](https://github.com/AsuraMTG/Malachite-Mod)
+
 ### 🌌 **I’m currently learning**
 - 🎓 **C#**
   
