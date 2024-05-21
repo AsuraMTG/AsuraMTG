@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/3eddbdef09a55dd734b62af0efdd3719c3071ebc10e2c8e593b36f4e090f4acf/68747470733a2f2f63646e2e6c696768742d69742e6e65742f61727469636c65735f696d6167652f41727469636c6534355f4d312e6a7067">
+<img src="https://en.idei.club/uploads/posts/2023-03/thumbs/1679449654_en-idei-club-p-programmer-dark-dizain-krasivo-59.jpg">
 
 ## 👋 **About Me**
 Hey there! I'm Asura. A Junior Software Engeneer.
