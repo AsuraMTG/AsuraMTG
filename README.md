@@ -9,11 +9,15 @@ Hey there! I'm Asura. A Junior Software Engeneer.
 - 📌 [Simple Music Player](https://github.com/AsuraMTG/simpleMusicPlayer)
 
 ### 🌌 **I’m currently learning**
+
 - 🎓 **C#**
   
-- 🎓 **Flutter**
+- 🎓 **JavaScript**
   
-- 🎓 **Xamarin**
+- 🎓 **HTML**
+
+- 🎓 **CSS**
+
 
 ### 🌌 **All of my projects are available**
 - [https://github.com/AsuraMTG](https://github.com/AsuraMTG)
