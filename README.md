@@ -1,4 +1,4 @@
-![Alt text](./assets/2.png)
+![Alt text](./assets/2.jpg)
 ## 👋 **About Me**
 Hey there! I'm Asura. A Junior Software Engeneer.
 
