@@ -30,3 +30,8 @@ Hey there! I'm Asura. A Junior Software Engeneer.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asuramtg&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asuramtg&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asuramtg&theme=github_dark&utcOffset=8)
+
+
+
+
+![Alt text](./assets/BalSarok.png) ![Alt text](./assets/JobbSarok.png)
