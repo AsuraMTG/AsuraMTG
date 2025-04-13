@@ -1,7 +1,7 @@
 <div align="center">
  <img src="assets/erin-loelius-neo-tezzeret-rage-512-pattern.gif" width="200" />
 
-###  Junior Software Engineer ⚙️ | Making Useful Tools for MTG 🃏
+###  Junior Software Developer ⚙️ | Making Useful Tools for MTG 🃏
   
   <a href="https://github.com/AsuraMTG">
     <img src="https://img.shields.io/badge/🧑‍💻%20Follow%20Me%20on-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
