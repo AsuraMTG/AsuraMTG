@@ -12,12 +12,12 @@
 
 ## ⚡️ Projects I'm Brewing
 
-- 🧪 [MTG CardShop](https://github.com/AsuraMTG/MTG-Card-Shop)  
+- 🧪 [MTG Card Shop](https://github.com/AsuraMTG/MTG-Card-Shop)  
   > A collaborative MTG-themed webshop.  
-  > 🎓 Final project for the 2025 professional high school graduation exam. Built with @Benyi5.  
+  > 🎓 Final project for the 2025 professional high school graduation exam. Built with [Benyi5](https://github.com/Benyi5).  
   > Features an online shopping site and a desktop admin panel for inventory management.
 
-- 🧪 **Asura's Card Shop** *(BETA)*  
+- 🧪 **MTG Community Space** *(BETA)*  
   > An upcoming project focused on building a fully-featured MTG web store experience.    
   > Currently in closed development. 🔒
 
