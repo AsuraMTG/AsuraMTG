@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/053/863/471/original/erin-loelius-neo-tezzeret-rage-512-pattern.gif?1663190852" />
-  
+ <img src="https://cdnb.artstation.com/p/assets/images/images/053/863/471/original/erin-loelius-neo-tezzeret-rage-512-pattern.gif?1663190852" width="400" />
+
   *Junior Software Engineer ⚙️ | Making Useful Tools for Magic: The Gathering 💻*
   
   <a href="https://github.com/AsuraMTG">
