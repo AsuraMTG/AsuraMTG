@@ -1,33 +1,53 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="250">
+<div align="center">
+  <img src="https://cdnb.artstation.com/p/assets/images/images/053/863/471/original/erin-loelius-neo-tezzeret-rage-512-pattern.gif?1663190852" />
+  
+  *Junior Software Engineer ⚙️ | Making Useful Tools for Magic: The Gathering 💻*
+  
+  <a href="https://github.com/AsuraMTG">
+    <img src="https://img.shields.io/badge/🧑‍💻%20Follow%20Me%20on-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-## 👋 **About Me**
-Hey there! I'm Asura. A Junior Software Engeneer.
+---
 
-### 🌌 **I’m currently Working on**
-- 📌 [MTG Proxy to PDF](https://github.com/AsuraMTG/MTG-Proxy-to-PDF)
+## ⚡️ Projects I'm Brewing
 
-### 🌌 **I’m currently learning**
+- 🧪 [MTG CardShop](https://github.com/AsuraMTG/MTG-Card-Shop)  
+  > A collaborative MTG-themed webshop.  
+  > 🎓 Final project for the 2025 professional high school graduation exam. Built with @Benyi5.  
+  > Features an online shopping site and a desktop admin panel for inventory management.
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+- 🧪 **Asura's Card Shop** *(BETA)*  
+  > An upcoming project focused on building a fully-featured MTG web store experience.
+  > Currently in closed development. 🔒
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+- 🧪 [MTG Proxy to PDF](https://github.com/AsuraMTG/MTG-Proxy-to-PDF)  
+  > A tool to generate printable Magic: The Gathering proxies. Still leveling up features & UI! 🛠️
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+---
 
-### 🌌 **Completed projects**
-- ✨ [MTG Proxy to PDF v.1](https://github.com/AsuraMTG/MTG-Proxy-to-PDF)
+## 📚 Currently Learning
 
-### 🌌 **You can reach me**
-- **eper.karma@gmail.com**
+| 🎨 **Frontend**     | 🛠️ **Backend**        | 💬 **Languages**     | 🧰 **Tools & IDEs**        | 🗄️ **Database**   |
+|---------------------|------------------------|----------------------|---------------------------|-------------------|
+| React ⚛️            | Node.js 🟩              | Python 🐍            | Git 🧬                    | MySQL 🐬          |
+| HTML5 🧱             | Express.js 🚀           | C# ⚙️                | Visual Studio 🖥️         |                   |
+| CSS3 🎨             |                        | JavaScript ⚡        | VS Code 🔧                |                   |
 
-### 🌌 **GitHub Stats**
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asuramtg&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asuramtg&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asuramtg&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asuramtg&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asuramtg&theme=github_dark&utcOffset=8)
+
+---
+
+## 📬 Reach Me
+
+- 📧 **eper.karma@gmail.com**
+- ✉️ Whether you want to collab, chat about MTG, or just say hi — my inbox is always open.
+- 🕹️ I'm also up for dev-related side quests, debugging duels, or code wizardry! 🧪✨
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AsuraMTG&theme=dark&date_format=%5BY%20%5DM%20j" alt="GitHub Streak"/>
+</div>
+
