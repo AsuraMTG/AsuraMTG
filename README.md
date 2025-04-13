@@ -44,10 +44,3 @@
 - 🕹️ I'm also up for dev-related side quests, debugging duels, or code wizardry! 🧪✨
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AsuraMTG&theme=dark&date_format=%5BY%20%5DM%20j" alt="GitHub Streak"/>
-</div>
-
