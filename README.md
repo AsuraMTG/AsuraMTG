@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://cdnb.artstation.com/p/assets/images/images/053/863/471/original/erin-loelius-neo-tezzeret-rage-512-pattern.gif?1663190852" width="200" />
 
-  *Junior Software Engineer ⚙️ | Making Useful Tools for Magic: The Gathering 💻*
+###  Junior Software Engineer ⚙️ | Making Useful Tools for MTG 🃏
   
   <a href="https://github.com/AsuraMTG">
     <img src="https://img.shields.io/badge/🧑‍💻%20Follow%20Me%20on-GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,7 +18,7 @@
   > Features an online shopping site and a desktop admin panel for inventory management.
 
 - 🧪 **Asura's Card Shop** *(BETA)*  
-  > An upcoming project focused on building a fully-featured MTG web store experience.
+  > An upcoming project focused on building a fully-featured MTG web store experience.    
   > Currently in closed development. 🔒
 
 - 🧪 [MTG Proxy to PDF](https://github.com/AsuraMTG/MTG-Proxy-to-PDF)  
